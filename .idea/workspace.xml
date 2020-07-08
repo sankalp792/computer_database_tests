@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87449b86-f774-4189-8ed1-decf03f64e98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eJxGAtd0geD3UfYYkpHMdnhlwy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87449b86-f774-4189-8ed1-decf03f64e98" name="Default Changelist" comment="" />
+      <created>1594053398883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594053398883</updated>
+      <workItem from="1594053401363" duration="8835000" />
+      <workItem from="1594229952473" duration="530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1495" height="240" key="GridCell.Tab.0.bottom" timestamp="1594135662591">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1495" height="240" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1594135662591" />
+    <state width="1495" height="240" key="GridCell.Tab.0.center" timestamp="1594135662589">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1495" height="240" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1594135662589" />
+    <state width="1495" height="240" key="GridCell.Tab.0.left" timestamp="1594135662565">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1495" height="240" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1594135662565" />
+    <state width="1495" height="240" key="GridCell.Tab.0.right" timestamp="1594135662590">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state width="1495" height="240" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1594135662590" />
+    <state x="466" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1594229956075">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="466" y="348" key="com.intellij.ide.util.TipDialog/0.23.1680.947@0.23.1680.947" timestamp="1594229956075" />
+    <state x="739" y="468" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1594059886249">
+      <screen x="0" y="23" width="1680" height="947" />
+    </state>
+    <state x="739" y="468" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.23.1680.947@0.23.1680.947" timestamp="1594059886249" />
+  </component>
+</project>
